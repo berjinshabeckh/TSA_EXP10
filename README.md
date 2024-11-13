@@ -1,5 +1,8 @@
 # Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
-### Date: 
+
+## Name:H.Berjin Shabeck
+## Reg no:212222240018
+## Date:30/10/2024
 
 ### AIM:
 To implement SARIMA model using python for student score data.
